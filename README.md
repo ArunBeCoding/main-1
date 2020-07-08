@@ -1,1 +1,3 @@
 # main
+This paper examines the role of financial news articles in different textual representations and their ability to predict stock price direction one day after an article release. The Bag of Words model has been the dominant approach in textual analysis. This paper seeks to examine the effectiveness of other approaches such as Sentiment Analysis and Word Embeddings, in addition to the Bag of Words model for comparison. These different approaches will then be used as part of a machine learning procedure to evaluate AAPL stock price direction. The results demonstrate that on average, Sentiment Analysis and Word Embeddings outperform the Bag of Words model, especially when an ensemble modeling of different classification models is used. 
+
